@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currentl student at [Unsika](https://unsika.ac.id/)
-- 🌱 I’m currently learning html ,css and c++
+- 🌱 I’m currently learning 
 - 🤔 I’m looking for money
 - 💬 Ask me about anything
 - 📫 How to reach me: grozan.14@gmail.com 
@@ -22,9 +22,16 @@
    - Prodi Informatika
    - Kelas 1 B 
  #### 2.Graduate from [SMK IT ASSALAM Karawang](https://smkitassalam.com/) | TKRO | KARAWANG `2019-2022`
+### 🎗Programming and markup languages
+
+<p>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+</p>
 
 ### Tools:
-
 
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][ms.excel]
 ### Connect with me:
