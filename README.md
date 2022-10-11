@@ -29,4 +29,4 @@
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][ms.excel]
 ### Connect with me:
 
-[@_mgrzn](https://instagram.com/_mgrzn)
+[(./img/instagram-dark.svg)](https://instagram.com/_mgrzn)
