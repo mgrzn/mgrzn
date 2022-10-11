@@ -1,15 +1,19 @@
 # Hi there, I'm Magrozan - aka [mgrzn](https://www.instagram.com/_mgrzn/) 👋
 ## About me:
  Hello everyone i'm magrozan qobus zaidan and you can call me rozan. i'm student at Universitas Singaperbangsa Karawang [ (Unsika) ](https://unsika.ac.id/) class 1b informatics study program informatics faculty of computer science. 
+- 🔭 I’m currentl student at [Unsika](https://unsika.ac.id/)
 - 🌱 I’m currently learning html ,css and c++
+- 🤔 I’m looking for money
 - 💬 Ask me about anything
-- 📫 How to reach me: grozan.14@gmail.com or [@mgrzn](https://www.instagram.com/_mgrzn/)
+- 📫 How to reach me: grozan.14@gmail.com 
+- ✌ Follow my Instagram [@mgrzn](https://www.instagram.com/_mgrzn/)
 
 ## Education:
 
-#### 1. Student at[ Universitas Singaperbangsa Karawang](https://unsika.ac.id/) | Bachelor of Computer Science | Karawang `2022`
+#### 1.Student at[ Universitas Singaperbangsa Karawang](https://unsika.ac.id/) | Bachelor of Computer Science | Karawang `2022`
    - Prodi Informatika
- #### 2. [SMK IT ASSALAM Karawang](https://smkitassalam.com/) | TKRO | KARAWANG `2019-2022`
+   - Kelas 1 B 
+ #### 2.Graduate from [SMK IT ASSALAM Karawang](https://smkitassalam.com/) | TKRO | KARAWANG `2019-2022`
 
 ### Tools:
 
