@@ -3,7 +3,7 @@
   Welcome to Magrozan qobus zaidan profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
- Hello everyone i'm magrozan qobus zaidan and you can call me rozan. i'm student at Universitas Singaperbangsa Karawang [ (Unsika) ](https://unsika.ac.id/) class 1b informatics study program informatics faculty of computer science. 
+ Hello everyone i'm magrozan qobus zaidan and you can call me rozan. i'm student at Universitas Singaperbangsa Karawang (Unsika)  class 1b informatics study program informatics faculty of computer science. 
  <p align="center">
   <a href="https://www.linkedin.com/in/magrozan-qobus-zaidan-6a4695251/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mgrzn"><img alt="Github" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
