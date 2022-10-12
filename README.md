@@ -22,6 +22,7 @@
    - Prodi Informatika
    - Kelas 1 B 
  #### 2.Graduate from [SMK IT ASSALAM Karawang](https://smkitassalam.com/) | TKRO | KARAWANG `2019-2022`
+   - 6th place TEY (Toyota Eco Youth) Competition
 ### 🎗Programming and markup languages
 
 <p>
@@ -36,4 +37,5 @@
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][ms.excel]
 ### Connect with me:
 
-[(./img/instagram-dark.svg)](https://instagram.com/_mgrzn)
+[💬IG](https://instagram.com/_mgrzn)
+[💌Gmail](grozan.14@gmail.com)
