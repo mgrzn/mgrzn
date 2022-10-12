@@ -9,7 +9,7 @@
   <a href="https://github.com/mgrzn"><img alt="Github" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currentl student at [Unsika](https://unsika.ac.id/)
+- 🔭 I’m currently student at [Unsika](https://unsika.ac.id/)
 - 🌱 I’m currently learning 
 - 🤔 I’m looking for money
 - 💬 Ask me about anything
@@ -22,7 +22,8 @@
    - Prodi Informatika
    - Kelas 1 B 
  #### 2.Graduate from [SMK IT ASSALAM Karawang](https://smkitassalam.com/) | TKRO | KARAWANG `2019-2022`
-   - 6th place TEY (Toyota Eco Youth) Competition
+   - 4th place Metaco Point Blank Competition
+   - 3rd place PBCB (Point Blank Clan Battle)
 ### 🎗Programming and markup languages
 
 <p>
@@ -38,4 +39,3 @@
 ### Connect with me:
 
 [💬IG](https://instagram.com/_mgrzn)
-[💌Gmail](grozan.14@gmail.com)
