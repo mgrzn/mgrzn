@@ -21,9 +21,6 @@
 #### 1.Student at[ Universitas Singaperbangsa Karawang](https://unsika.ac.id/) | Bachelor of Computer Science | Karawang `2022`
    - Prodi Informatika
    - Kelas 1 B 
- #### 2.Graduate from [SMK IT ASSALAM Karawang](https://smkitassalam.com/) | TKRO | KARAWANG `2019-2022`
-   - 4th place Metaco Point Blank Competition
-   - 3rd place PBCB (Point Blank Clan Battle)
 ### 🎗Programming and markup languages
 
 <p>
