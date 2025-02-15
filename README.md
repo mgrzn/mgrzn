@@ -5,7 +5,7 @@
 </h3>
  Hello everyone i'm magrozan qobus zaidan and you can call me rozan. i'm student at Universitas Singaperbangsa Karawang (Unsika)  class 1b informatics study program informatics faculty of computer science. 
  <p align="center">
-  <a href="www.linkedin.com/in/mgrzn"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mgrzn/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 </p>
 
