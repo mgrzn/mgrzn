@@ -18,8 +18,9 @@
 ## Education:
 
 #### 1.Student at[ Universitas Singaperbangsa Karawang](https://unsika.ac.id/) | Bachelor of Computer Science | Karawang `2022`
-   - Prodi Informatika 
-#### 1.Student at[ Universitas Singaperbangsa Karawang](https://unsika.ac.id/) | Bachelor of Computer Science | Karawang `2022`
+   - Prodi Informatika
+   - Area of Interest : Machine Learning, Data Scientist, NLP
+#### 2.Student at[ Universitas Singaperbangsa Karawang](https://unsika.ac.id/) | Bachelor of Computer Science | Karawang `2022`
    - Prodi Informatika
    - Completed rigorous ML curriculum (TensorFlow, NLP, CNN, deployment)
    - Capstone: Built AI-powered mental health chatbot with NLP and activity recommendation
