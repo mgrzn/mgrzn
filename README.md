@@ -10,7 +10,6 @@
 </p>
 
 - 🌱 Long life learner 
-- 🤔 I’m looking for internship or entry-level opportunities
 - 💬 Ask me about anything
 - 📫 How to reach me: grozan.14@gmail.com or connect with me on linkedin [Linkedin profile](https://www.linkedin.com/in/mgrzn/)
 
